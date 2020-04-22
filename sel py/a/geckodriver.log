@@ -1,0 +1,55 @@
+1587345917193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maruf\\AppData\\Local\\Temp\\rust_mozprofile8sKyQ8"
+1587345922055	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587345924887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587345924887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587345924888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587345924889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587345939243	Marionette	INFO	Listening on port 58207
+1587345939299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587345983546	Marionette	INFO	Stopped listening on port 58207
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587347932095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maruf\\AppData\\Local\\Temp\\rust_mozprofileVAtQnJ"
+1587347933217	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587347935179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587347935179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587347935180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587347935180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1587347941717	Marionette	INFO	Listening on port 59960
+1587347942207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587347959680	Marionette	INFO	Stopped listening on port 59960
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587423517791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\maruf\\AppData\\Local\\Temp\\rust_mozprofilejSTYfw"
+1587423523787	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587423526374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587423526374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587423526375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587423526375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587423537193	Marionette	INFO	Listening on port 57501
+1587423537585	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2552, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1587423589250	Marionette	INFO	Stopped listening on port 57501
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 446: Error: OS.File has been shut down. Rejecting request to writeAtomic
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
