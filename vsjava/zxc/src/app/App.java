@@ -15,6 +15,6 @@ public class App {
         System.out.println(d.getTitle());
         d.findElement(By.id("u_0_b")).click();
         System.out.println(d.getTitle());
-        // d.close();
+        d.close();
     }
 }
