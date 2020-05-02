@@ -8,6 +8,5 @@ public class testsearch {
         //System.setProperty("webdriver.chrome.driver","C:\\Users\\maruf\\Desktop\\prac\\webdriver\\chromedriver.exe");
         System.setProperty("webdriver.gecko.driver","C:\\Users\\maruf\\Desktop\\prac\\webdriver\\geckodriver.exe");
         WebDriver driver= new FirefoxDriver();
-        driver
     }
 }
