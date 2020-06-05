@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89e85930-555f-402a-b227-3a074b944e66" name="Default Changelist" comment="add amazon test">
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/clicking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/clicking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cVpdyFpvoQNuM12k2DxAQLDFAO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/maruf/Desktop/prac/selenium idea/amazon.com/testng.xml">
+    <configuration name="nmb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.nmb" />
+      <module name="amazon.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zxc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.zxc" />
+      <module name="amazon.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/maruf/Desktop/prac/selenium idea/amazon.com/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="amazon.com" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="amazon.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.click_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="amazon.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test" />
+      <option name="METHOD_NAME" value="click_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/maruf/Desktop/prac/selenium idea/amazon.com/testng.xml" />
+        <item itemvalue="TestNG.test" />
+        <item itemvalue="Application.nmb" />
+        <item itemvalue="Application.zxc" />
+        <item itemvalue="TestNG.test.click_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89e85930-555f-402a-b227-3a074b944e66" name="Default Changelist" comment="" />
+      <created>1590623705612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590623705612</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add amazon test">
+      <created>1590703263408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590703263409</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add amazon test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add amazon test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1053" y="100" width="774" height="857" key="DiffContextDialog" timestamp="1590705694347">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1053" y="100" width="774" height="857" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590705694347" />
+    <state width="914" height="287" key="GridCell.Tab.0.bottom" timestamp="1590708592711">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590708592711" />
+    <state width="914" height="287" key="GridCell.Tab.0.center" timestamp="1590708592711">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="287" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590708592711" />
+    <state width="914" height="287" key="GridCell.Tab.0.left" timestamp="1590708592710">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="287" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590708592710" />
+    <state width="914" height="287" key="GridCell.Tab.0.right" timestamp="1590708592711">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="287" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590708592711" />
+    <state x="1020" y="263" key="IDE.errors.dialog" timestamp="1590625580651">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1020" y="263" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590625580651" />
+    <state x="922" y="169" key="SettingsEditor" timestamp="1590886194903">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="922" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1590886194903" />
+    <state x="685" y="185" key="new project wizard" timestamp="1590888355256">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="685" y="185" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1590888355256" />
+  </component>
+</project>

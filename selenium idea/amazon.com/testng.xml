@@ -3,13 +3,9 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/maruf/Desktop/prac/selenium idea/amazon.com">
         <classes>
-            <class name="org.example.test">
-                <methods>
-                    <include name="search_test"/>
-                    <include name="click_test"/>
-                    <include name="logintest"/>
-                </methods>
-            </class>
+            <class name="org.example.login"></class>
+            <class name="org.example.clicking"></class>
+            <class name="org.example.search"></class>
         </classes>
     </test>
 </suite>
