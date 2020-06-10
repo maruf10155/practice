@@ -12,7 +12,10 @@ import io.cucumber.junit.CucumberOptions;
 
 @CucumberOptions(
 		features = "C:\\Users\\maruf\\Desktop\\prac\\selenium eclipse\\a\\src\\test\\java\\features",
-		glue = "sample1"
+		glue = "sample1",
+		dryRun = false,
+		plugin= {},
+		monochrome=true
 		)
 public class testrunner {
 
