@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="203332d6-5052-4c2a-a97c-bfe5212a8de0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baverage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/breducedcolor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bweight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caverage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creducedcolor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cweight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processing_p5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boxblur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matmul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducedcolor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/a/out/production/a/q/qq.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/a/out/production/a/q/testsearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/b/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/b/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/b/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/b/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/b/b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/b/out/production/b/practice/googlesearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/b/out/production/b/practice/load.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/b/out/production/b/practice/p1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/b/out/production/b/practice/p2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/out/production/c/a1/cl1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/out/production/c/a1/cl2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/out/production/c/a1/cl3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/out/production/c/a1/cnccaptest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/out/production/c/a1/encapsulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sel java/c/out/production/c/a2/zx1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sel java/b/src/practice/googlesearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sel java/b/src/practice/googlesearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sel java/b/src/practice/load.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sel java/b/src/practice/load.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sel java/b/src/practice/p2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sel java/b/src/practice/p2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sel java/c/src/a1/cl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sel java/c/src/a1/cl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sel java/c/src/a1/cl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sel java/c/src/a1/cl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sel java/c/src/a1/cl3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sel java/c/src/a1/cl3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sel java/c/src/a1/cnccaptest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sel java/c/src/a1/cnccaptest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sel java/c/src/a1/encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sel java/c/src/a1/encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sel java/c/src/a2/zx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sel java/c/src/a2/zx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sel py/a/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sel py/a/sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-java-3.141.59 (1)/CHANGELOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-java-3.141.59 (1)/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-java-3.141.59 (1)/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-java-3.141.59 (1)/libs/byte-buddy-1.8.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-java-3.141.59 (1)/libs/client-combined-3.141.59-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-java-3.141.59 (1)/libs/client-combined-3.141.59.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-java-3.141.59 (1)/libs/commons-exec-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-java-3.141.59 (1)/libs/guava-25.0-jre.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-java-3.141.59 (1)/libs/okhttp-3.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-java-3.141.59 (1)/libs/okio-1.14.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webdriver/msedgedriver.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bjv8FL3JtMow1uL7umK6bDJ8KX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../library/processing" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Application.boxblur">
+    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array" />
+      <module name="processing_p5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boxblur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boxblur" />
+      <module name="processing_p5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gray2" />
+      <module name="processing_p5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="point" />
+      <module name="processing_p5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reducedcolor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reducedcolor" />
+      <module name="processing_p5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.boxblur" />
+        <item itemvalue="Application.array" />
+        <item itemvalue="Application.point" />
+        <item itemvalue="Application.reducedcolor" />
+        <item itemvalue="Application.gray2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="203332d6-5052-4c2a-a97c-bfe5212a8de0" name="Default Changelist" comment="" />
+      <created>1589158155366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589158155366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589257736595">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="828" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589257736595" />
+    <state x="666" y="266" key="FileChooserDialogImpl" timestamp="1589330227969">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="666" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589330227969" />
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1589329216586">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589329216586" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1589329216585">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589329216585" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1589329216585">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589329216585" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1589329216586">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589329216586" />
+    <state x="440" y="99" key="SettingsEditor" timestamp="1589257550180">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589257550180" />
+    <state x="82" y="200" width="930" height="725" key="dock-window-1" timestamp="1589240578605">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="82" y="200" width="930" height="725" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1589240578605" />
+    <state x="342" y="145" key="new project wizard" timestamp="1589330230410">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1589330230410" />
+  </component>
+</project>

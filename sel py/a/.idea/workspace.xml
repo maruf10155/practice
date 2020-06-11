@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a9127fd-03c2-4ce7-af40-e25351b1b6ed" name="Default Changelist" comment="2">
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/src/practice/googlesearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/src/practice/p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cl3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cnccaptest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/src/a2/zx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/b/src/practice/load.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/b/src/practice/load.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1amd0UQ3CAyAmds3nTbKkWcGBaj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maruf\Desktop\prac\sel py\a\calculator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sum">
+    <configuration name="cal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="a" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conditionalcommand" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="a" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditionalcommand.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="a" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="navigation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="a" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/navigation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="a" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sum" />
+        <item itemvalue="Python.conditionalcommand" />
+        <item itemvalue="Python.navigation" />
+        <item itemvalue="Python.fun" />
+        <item itemvalue="Python.cal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a9127fd-03c2-4ce7-af40-e25351b1b6ed" name="Default Changelist" comment="" />
+      <created>1587344480063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587344480063</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2">
+      <created>1587608297109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587608297109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="256" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587606133905">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="256" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1587606133905" />
+    <state x="1187" y="383" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587689512164">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1187" y="383" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1587689512164" />
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom" timestamp="1589074360555">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589074360555" />
+    <state width="1899" height="289" key="GridCell.Tab.0.center" timestamp="1589074360555">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589074360555" />
+    <state width="1899" height="289" key="GridCell.Tab.0.left" timestamp="1589074360555">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589074360555" />
+    <state width="1899" height="289" key="GridCell.Tab.0.right" timestamp="1589074360555">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589074360555" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1587863476655">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587863476655" />
+    <state x="667" y="127" width="585" height="795" key="find.popup" timestamp="1587603726179">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="127" width="585" height="795" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587603726179" />
+    <state x="760" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587603515449">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="760" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587603515449" />
+    <state x="623" y="227" key="search.everywhere.popup" timestamp="1587605207872">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587605207872" />
+  </component>
+</project>

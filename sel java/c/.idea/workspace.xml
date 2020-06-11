@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6a9d248-33ad-431c-b375-9ce12276d871" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../b/src/practice/googlesearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b/src/practice/p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a1/cl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a1/cl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a1/cl3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a1/cnccaptest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a1/encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a2/zx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b/src/practice/load.java" beforeDir="false" afterPath="$PROJECT_DIR$/../b/src/practice/load.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bbRCaRF7QGcinMQBeEU7p4dQDy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.cnccaptest">
+    <configuration name="cl1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a1.cl1" />
+      <module name="c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cl2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a1.cl2" />
+      <module name="c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cnccaptest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a1.cnccaptest" />
+      <module name="c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a2.zx1" />
+      <module name="c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.cnccaptest" />
+        <item itemvalue="Application.cl2" />
+        <item itemvalue="Application.zx1" />
+        <item itemvalue="Application.cl1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a9d248-33ad-431c-b375-9ce12276d871" name="Default Changelist" comment="" />
+      <created>1588898679419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588898679419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1588980964190">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1588980964190" />
+    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1588980964190">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1588980964190" />
+    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1588980964190">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1588980964190" />
+    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1588980964190">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1588980964190" />
+  </component>
+</project>

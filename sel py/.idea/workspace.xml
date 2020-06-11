@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb5a23b0-d292-4d93-8587-ee6d8a62836c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../android/1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/MyApplication/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/MyApplication/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/MyApplication/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/MyApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/MyApplication/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/MyApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/a/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/a/.idea/a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/a/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/a/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/a/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/a/a.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/ass5/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/ass5/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/cucumber1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/src/test/java/feature/test.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/src/test/java/run/runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium idea premium/cucumber1/src/test/java/step/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium eclipse/a/src/test/java/runner/testrunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium eclipse/a/src/test/java/runner/testrunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vsjava/cucumber1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vsjava/cucumber1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vsjava/cucumber1/src/test/java/web/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cF1rqzcbWwvr2FfIBO39DXayul" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb5a23b0-d292-4d93-8587-ee6d8a62836c" name="Default Changelist" comment="" />
+      <created>1590109729037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590109729037</updated>
+      <workItem from="1591330666323" duration="1208000" />
+      <workItem from="1591738886476" duration="128000" />
+      <workItem from="1591739056350" duration="162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1219" y="266" key="FileChooserDialogImpl" timestamp="1591739204783">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1219" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591739204783" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1591331830041">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1591331830041" />
+  </component>
+</project>

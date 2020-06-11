@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a901fd3-c2d4-4ae3-a1da-d5881e34e2a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/src/main/java/samplemaven/asdf/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/src/test/java/samplemaven/asdf/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/src/test/java/samplemaven/asdf/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/Default suite/Default test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/Default suite/Default test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/junitreports/TEST-samplemaven.asdf.test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/Default test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/Default suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/asdf/test-output/testng.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bv2cFXZtl6INSl1qmjFxY7xki0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../library/testng-6.8.5.jar/testng-6.8.5.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG.a">
+    <configuration type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration type="TestNG" nameIsGenerated="true">
+      <module name="test" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/maruf/Desktop/prac/selenium idea/test/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="test1.a" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="TestNG" nameIsGenerated="true">
+      <module name="test" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="test1.a" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/maruf/Desktop/prac/selenium idea/test/testng.xml" />
+      <item itemvalue="TestNG.a" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.a" />
+        <item itemvalue="TestNG.C:/Users/maruf/Desktop/prac/selenium idea/test/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/maruf/Desktop/prac/selenium idea/test/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/maruf/Desktop/prac/selenium idea/test/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/maruf/Desktop/prac/selenium idea/test/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a901fd3-c2d4-4ae3-a1da-d5881e34e2a5" name="Default Changelist" comment="" />
+      <created>1589498324020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589498324020</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589503922150">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="354" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589503922150" />
+    <state x="629" y="287" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589503693162">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="629" y="287" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589503693162" />
+    <state x="1106" y="269" key="FileChooserDialogImpl" timestamp="1590024934112">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1106" y="269" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1590024934112" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1589949778440">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589949778440" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1589949778440">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589949778440" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1589949778439">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589949778439" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1589949778440">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589949778440" />
+    <state x="432" y="126" width="1040" height="845" key="SettingsEditor" timestamp="1590024545410">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="432" y="126" width="1040" height="845" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1590024545410" />
+    <state x="515" y="239" key="new project wizard" timestamp="1590025019580">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="515" y="239" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1590025019580" />
+  </component>
+</project>

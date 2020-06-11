@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c10e7736-b9ad-4c15-943a-c7d54f375f5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumber1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Features/title.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/titletest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/test_runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon.com/src/test/java/org/example/clicking.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon.com/src/test/java/org/example/clicking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon.com/src/test/java/org/example/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon.com/src/test/java/org/example/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon.com/src/test/java/org/example/search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon.com/src/test/java/org/example/search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon.com/src/test/java/org/example/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon.com/src/test/java/org/example/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon.com/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon.com/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ceU3pl0rbJG0iKGlG70R0XIYw1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: google.com search test">
+    <configuration name="Scenario: google.com search test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/title.feature" />
+      <option name="GLUE" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber1" />
+      <option name="NAME_FILTER" value="^google\.com search test$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^google\.com search test$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: google.com search test" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.test_runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: google.com search test" />
+        <item itemvalue="JUnit.test_runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c10e7736-b9ad-4c15-943a-c7d54f375f5d" name="Default Changelist" comment="" />
+      <created>1590888355404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590888355404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1590970717717">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590970717717" />
+    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1590970717716">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590970717716" />
+    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1590970717716">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590970717716" />
+    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1590970717716">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590970717716" />
+    <state x="970" y="179" key="Maven.ArtifactSearchDialog" timestamp="1590899602656">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="970" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590899602656" />
+    <state x="496" y="188" key="new project wizard" timestamp="1590970713972">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="496" y="188" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1590970713972" />
+    <state x="1192" y="446" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1590896643970">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1192" y="446" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590896643970" />
+  </component>
+</project>

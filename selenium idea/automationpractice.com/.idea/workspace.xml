@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e50f113-3375-483e-9ad5-8c0c1b8facbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.projects/class1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.projects/class1/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.projects/class1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/0.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2073846395.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2149943262.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2221116094.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2758415362.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2780253508.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2806402570.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/3370150513.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/3448711937.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/3507415630.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/36199935.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/3704880075.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/4001897636.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/400959153.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/401924188.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/714905317.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/724380870.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/727373669.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/767488763.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/843872451.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.15.0.20191217-1149.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/baverage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/breducedcolor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/bweight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/caverage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/cdot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/creducedcolor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/cweight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/processing_p5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/boxblur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/gray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/grey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/matmul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/reducedcolor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/a/out/production/a/q/qq.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/a/out/production/a/q/testsearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/out/production/b/practice/googlesearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/out/production/b/practice/load.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/out/production/b/practice/p1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/b/out/production/b/practice/p2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a1/cl1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a1/cl2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a1/cl3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a1/cnccaptest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a1/encapsulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a2/zx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a1/newclas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a1/ter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a1/thismethodlib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/browse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/home_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/load.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/signin_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/b/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/b/src/practice/googlesearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/b/src/practice/googlesearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/b/src/practice/load.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/b/src/practice/load.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/b/src/practice/p2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/b/src/practice/p2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a1/cl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a1/cl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a1/cl3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cl3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a1/cnccaptest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cnccaptest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a1/encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a2/zx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a2/zx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel py/a/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel py/a/sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/CHANGELOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/byte-buddy-1.8.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/client-combined-3.141.59-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/client-combined-3.141.59.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/commons-exec-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/guava-25.0-jre.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/okhttp-3.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/okio-1.14.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webdriver/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webdriver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webdriver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webdriver/msedgedriver.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bxejnsXqkCw60hRCIfjouuU79W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../library/selenium-java-3.141.59 (1)/libs" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/maruf/Desktop/prac/selenium idea/automationpractice.com/testng.xml">
+    <configuration name="browse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="page.browse" />
+      <module name="automationpractice.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a1.ter" />
+      <module name="automationpractice.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationpractice.com" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/maruf/Desktop/prac/selenium idea/automationpractice.com/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationpractice.com" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationpractice.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page" />
+      <option name="MAIN_CLASS_NAME" value="page.test1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationpractice.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page" />
+      <option name="MAIN_CLASS_NAME" value="page.test2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.browse" />
+      <item itemvalue="Application.ter" />
+      <item itemvalue="TestNG.C:/Users/maruf/Desktop/prac/selenium idea/automationpractice.com/testng.xml" />
+      <item itemvalue="TestNG.test1" />
+      <item itemvalue="TestNG.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/maruf/Desktop/prac/selenium idea/automationpractice.com/testng.xml" />
+        <item itemvalue="TestNG.test2" />
+        <item itemvalue="TestNG.test1" />
+        <item itemvalue="TestNG.test1" />
+        <item itemvalue="Application.browse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e50f113-3375-483e-9ad5-8c0c1b8facbd" name="Default Changelist" comment="" />
+      <created>1589578309892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589578309892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589601926663">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589601926663" />
+    <state x="1230" y="235" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1589578398119">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1230" y="235" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589578398119" />
+    <state x="649" y="125" width="635" height="800" key="#test1" timestamp="1589594532458">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="649" y="125" width="635" height="800" key="#test1/0.0.1920.1050@0.0.1920.1050" timestamp="1589594532458" />
+    <state x="1106" y="266" key="FileChooserDialogImpl" timestamp="1589578382333">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1106" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589578382333" />
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1589753140314">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589753140314" />
+    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1589753140314">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589753140314" />
+    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1589753140314">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589753140314" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1589753140314">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589753140314" />
+    <state x="705" y="135" key="SettingsEditor" timestamp="1589581499792">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="705" y="135" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589581499792" />
+    <state x="-7" y="0" width="974" height="1057" key="dock-window-1" timestamp="1589683847159">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-7" y="0" width="974" height="1057" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1589683847159" />
+    <state x="342" y="145" key="new project wizard" timestamp="1589753135409">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1589753135409" />
+  </component>
+</project>

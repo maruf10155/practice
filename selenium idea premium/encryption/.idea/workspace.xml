@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf40a61f-3c04-42df-863b-b0b23cbf598e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../sel py/encryption/.idea/rGraphicsSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel py/encryption/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel py/encryption/decrypt2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel py/encryption/encryption2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sel py/encryption/qwert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encryption.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/encryption/encryption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decrypt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encrypted2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xcv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel py/encryption/decrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel py/encryption/decrypt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sel py/encryption/encrycpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel py/encryption/encrycpt.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1d6jH9k8M67e3z3zpy05cEeVjLu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.decrypt2">
+    <configuration name="decrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decrypt" />
+      <module name="encryption" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="decrypt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decrypt2" />
+      <module name="encryption" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="encrypted2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encrypted2" />
+      <module name="encryption" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encryption" />
+      <module name="encryption" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xcv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xcv" />
+      <module name="encryption" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.decrypt2" />
+        <item itemvalue="Application.encrypted2" />
+        <item itemvalue="Application.decrypt" />
+        <item itemvalue="Application.encryption" />
+        <item itemvalue="Application.xcv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf40a61f-3c04-42df-863b-b0b23cbf598e" name="Default Changelist" comment="" />
+      <created>1591752346978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591752346978</updated>
+      <workItem from="1591752350910" duration="16960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="102" key="#Project_Structure" timestamp="1591752390879">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="102" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1591752390879" />
+    <state x="210" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591829404525">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="210" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591829404525" />
+    <state width="914" height="351" key="GridCell.Tab.0.bottom" timestamp="1591838092471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591838092471" />
+    <state width="914" height="351" key="GridCell.Tab.0.center" timestamp="1591838092470">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591838092470" />
+    <state width="914" height="351" key="GridCell.Tab.0.left" timestamp="1591838092470">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591838092470" />
+    <state width="914" height="351" key="GridCell.Tab.0.right" timestamp="1591838092470">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591838092470" />
+    <state width="914" height="351" key="GridCell.Tab.1.bottom" timestamp="1591838092472">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591838092472" />
+    <state width="914" height="351" key="GridCell.Tab.1.center" timestamp="1591838092471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591838092471" />
+    <state width="914" height="351" key="GridCell.Tab.1.left" timestamp="1591838092471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591838092471" />
+    <state width="914" height="351" key="GridCell.Tab.1.right" timestamp="1591838092471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="351" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591838092471" />
+    <state x="1170" y="283" key="extract.method.dialog" timestamp="1591830719407">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1170" y="283" key="extract.method.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591830719407" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/encryption$encryption.ic" NAME="encryption Coverage Results" MODIFIED="1591761085869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

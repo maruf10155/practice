@@ -1,0 +1,190 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-06-09T01:43:32.414Z",
+        "line": 8,
+        "name": "testing feature",
+        "description": "",
+        "id": "test-feature;testing-feature;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "given name is \"qwe\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "qwe",
+                  "offset": 15
+                }
+              ],
+              "location": "step.test.given_name_is(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "password is \"123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123",
+                  "offset": 13
+                }
+              ],
+              "location": "step.test.password_is(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "print all",
+            "match": {
+              "location": "step.test.print_all()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-09T01:43:32.732Z",
+        "line": 9,
+        "name": "testing feature",
+        "description": "",
+        "id": "test-feature;testing-feature;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "given name is \"asd\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "asd",
+                  "offset": 15
+                }
+              ],
+              "location": "step.test.given_name_is(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "password is \"4568963\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4568963",
+                  "offset": 13
+                }
+              ],
+              "location": "step.test.password_is(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "print all",
+            "match": {
+              "location": "step.test.print_all()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-09T01:43:32.753Z",
+        "line": 10,
+        "name": "testing feature",
+        "description": "",
+        "id": "test-feature;testing-feature;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "given name is \"zxc\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "zxc",
+                  "offset": 15
+                }
+              ],
+              "location": "step.test.given_name_is(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "password is \"789\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "789",
+                  "offset": 13
+                }
+              ],
+              "location": "step.test.password_is(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "print all",
+            "match": {
+              "location": "step.test.print_all()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "test feature",
+    "description": "",
+    "id": "test-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/feature/test.feature",
+    "tags": []
+  }
+]
