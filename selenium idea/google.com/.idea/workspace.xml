@@ -20,143 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbeab099-abec-4b72-97e3-c4a77fb74b3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.projects/class1/.indexes/properties.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.projects/class1/.location" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.projects/class1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.resources/0.snap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2073846395.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2149943262.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2221116094.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2758415362.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2780253508.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/2806402570.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/3370150513.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/3448711937.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/3507415630.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/36199935.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/3704880075.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/4001897636.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/400959153.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/401924188.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/714905317.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/724380870.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/727373669.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/767488763.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/843872451.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.15.0.20191217-1149.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c/.metadata/version.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/baverage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/breducedcolor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/bweight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/caverage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/cdot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/creducedcolor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/cweight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/processing_p5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/boxblur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/gray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/grey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/matmul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../processing_p5/src/reducedcolor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/a/out/production/a/q/qq.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/a/out/production/a/q/testsearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/b/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/b/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/b/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/b/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/b/b.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/b/out/production/b/practice/googlesearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/b/out/production/b/practice/load.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/b/out/production/b/practice/p1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/b/out/production/b/practice/p2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/c.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a1/cl1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a1/cl2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a1/cl3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a1/cnccaptest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a1/encapsulation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../sel java/c/out/production/c/a2/zx1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../automationpractice.com/src/a1/newclas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../automationpractice.com/src/a1/ter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../automationpractice.com/src/a1/thismethodlib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../automationpractice.com/src/page/browse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../automationpractice.com/src/page/home_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../automationpractice.com/src/page/load.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../automationpractice.com/src/page/signin_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../automationpractice.com/src/page/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../automationpractice.com/src/page/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/home/home_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/load/load.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/search_page/search_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/asd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel java/b/.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel java/b/src/practice/googlesearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/b/src/practice/googlesearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel java/b/src/practice/load.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/b/src/practice/load.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel java/b/src/practice/p2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/b/src/practice/p2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a1/cl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cl1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a1/cl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cl2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a1/cl3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cl3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a1/cnccaptest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/cnccaptest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a1/encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a1/encapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel java/c/src/a2/zx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel java/c/src/a2/zx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel py/a/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel py/a/sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/CHANGELOG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/NOTICE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/byte-buddy-1.8.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/client-combined-3.141.59-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/client-combined-3.141.59.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/commons-exec-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/guava-25.0-jre.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/okhttp-3.11.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../selenium-java-3.141.59 (1)/libs/okio-1.14.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../webdriver/IEDriverServer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../webdriver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../webdriver/geckodriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../webdriver/msedgedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/encryption/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment 4/assignment 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment 4/assignment 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,10 +48,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../library/all jar" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment 4" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.asd">
     <configuration name="asd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -236,6 +103,9 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fbeab099-abec-4b72-97e3-c4a77fb74b3f" name="Default Changelist" comment="" />
@@ -259,14 +129,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="99" key="#Project_Structure" timestamp="1591893196041">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1591893196041" />
     <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589753998419">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589753998419" />
-    <state x="666" y="266" key="FileChooserDialogImpl" timestamp="1589753516854">
+    <state x="666" y="266" key="FileChooserDialogImpl" timestamp="1591894319277">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="666" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589753516854" />
+    <state x="666" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591894319277" />
     <state width="1877" height="287" key="GridCell.Tab.0.bottom" timestamp="1589777656850">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -283,10 +157,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589777656835" />
-    <state x="440" y="99" key="SettingsEditor" timestamp="1589753536765">
+    <state x="762" y="183" key="SettingsEditor" timestamp="1591894235960">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589753536765" />
+    <state x="762" y="183" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1591894235960" />
     <state x="685" y="156" key="new project wizard" timestamp="1589853510897">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

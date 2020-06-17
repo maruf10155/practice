@@ -20,14 +20,94 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5746d0d-4d3f-4de9-9b16-cfdef780e39e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../sel py/encryption/qwert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel py/encryption/decrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel py/encryption/decrypt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sel py/encryption/encrycpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../sel py/encryption/encrycpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/feature/hover.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/step/asd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/step/hover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/step/qwer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_cucumber_core_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_cucumber_expressions_8_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_vintage_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_cucumber_java_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_cucumber_junit_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_cucumber_plugin_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_cucumber_testng_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_datatable_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_docstring_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__io_cucumber_tag_expressions_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/com.genuitec.eclipse.devstyle/recent.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/com.genuitec.eclipse.devstyle/recent.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/25.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.monitor.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.monitor.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.theming.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.theming.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_l" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/c791824dde85be767f3ea737bededf25/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/c791824dde85be767f3ea737bededf25/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/c791824dde85be767f3ea737bededf25/segments_1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium eclipse/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium eclipse/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encryption/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../encryption/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encryption/src/encrypted2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../encryption/src/encrypted2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea/assignment 4/assignment 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/assignment 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea/assignment 4/assignment 4/assignment 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea/assignment 4/assignment 4/assignment 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea/google.com/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea/google.com/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vsjava/cucumber1/src/test/java/feature/a.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../../vsjava/cucumber1/src/test/java/feature/a.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vsjava/cucumber1/target/test-classes/feature/a.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../../vsjava/cucumber1/target/test-classes/feature/a.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -46,6 +126,81 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: hover test">
+    <configuration name="asd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="step.asd" />
+      <module name="ass5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="step.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="qwer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="step.qwer" />
+      <module name="ass5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="step.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: hover" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/feature/hover.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ass5" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: hover" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: hover test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/feature/hover.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ass5" />
+      <option name="NAME_FILTER" value="^hover test$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^hover test$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: hover test" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: hover test" />
+        <item itemvalue="Application.asd" />
+        <item itemvalue="Cucumber Java.Feature: hover" />
+        <item itemvalue="Application.qwer" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -59,6 +214,8 @@
       <updated>1591667162265</updated>
       <workItem from="1591667166719" duration="1495000" />
       <workItem from="1591751417449" duration="882000" />
+      <workItem from="1591918350659" duration="14481000" />
+      <workItem from="1592021617161" duration="272000" />
     </task>
     <servers />
   </component>
@@ -81,25 +238,37 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="284" key="GridCell.Tab.0.bottom" timestamp="1591668841816">
+    <state x="0" y="270" key="#Console" timestamp="1591925190230">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591668841816" />
-    <state width="914" height="284" key="GridCell.Tab.0.center" timestamp="1591668841816">
+    <state x="0" y="270" key="#Console/0.0.1920.1050@0.0.1920.1050" timestamp="1591925190230" />
+    <state x="1258" y="349" key="FileChooserDialogImpl" timestamp="1591921166625">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="284" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591668841816" />
-    <state width="914" height="284" key="GridCell.Tab.0.left" timestamp="1591668841816">
+    <state x="1258" y="349" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591921166625" />
+    <state width="914" height="219" key="GridCell.Tab.0.bottom" timestamp="1591938206354">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="284" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591668841816" />
-    <state width="914" height="284" key="GridCell.Tab.0.right" timestamp="1591668841816">
+    <state width="914" height="219" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591938206354" />
+    <state width="914" height="219" key="GridCell.Tab.0.center" timestamp="1591938206354">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="284" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591668841816" />
-    <state x="0" y="189" key="new project wizard" timestamp="1591752346788">
+    <state width="914" height="219" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591938206354" />
+    <state width="914" height="219" key="GridCell.Tab.0.left" timestamp="1591938206354">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="0" y="189" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1591752346788" />
+    <state width="914" height="219" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591938206354" />
+    <state width="914" height="219" key="GridCell.Tab.0.right" timestamp="1591938206354">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="219" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591938206354" />
+    <state x="805" y="293" key="SettingsEditor" timestamp="1591921452904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="805" y="293" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1591921452904" />
+    <state x="0" y="189" key="new project wizard" timestamp="1592021893366">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="189" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1592021893366" />
   </component>
 </project>

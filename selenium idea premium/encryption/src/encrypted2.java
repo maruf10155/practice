@@ -16,6 +16,7 @@ public class encrypted2 {
         Collections.shuffle(c1, new Random(55));
         String str0 = "maruf Amin 756";
         String str1 = "";
+        int xc=45;
         ArrayList<Character> arr = new ArrayList<>();
         for (int i = 0; i < str0.length(); i++) {
             if (c.contains(str0.charAt(i))) {
