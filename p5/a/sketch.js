@@ -3,7 +3,7 @@ function setup() {
 
 }
 let t = 0;
-let n=40;
+let n=4;
 function draw() {
     let q=300;
     translate(width/2,height/2);
