@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-06-09T01:43:32.414Z",
+        "start_timestamp": "2020-06-19T22:30:21.872Z",
         "line": 8,
         "name": "testing feature",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4000000,
+              "duration": 3000000,
               "status": "passed"
             },
             "line": 3,
@@ -31,7 +31,7 @@
           },
           {
             "result": {
-              "duration": 1000000,
+              "duration": 2000000,
               "status": "passed"
             },
             "line": 4,
@@ -62,7 +62,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-09T01:43:32.732Z",
+        "start_timestamp": "2020-06-19T22:30:22.045Z",
         "line": 9,
         "name": "testing feature",
         "description": "",
@@ -72,7 +72,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2000000,
+              "duration": 1000000,
               "status": "passed"
             },
             "line": 3,
@@ -90,7 +90,6 @@
           },
           {
             "result": {
-              "duration": 2000000,
               "status": "passed"
             },
             "line": 4,
@@ -108,7 +107,7 @@
           },
           {
             "result": {
-              "duration": 2000000,
+              "duration": 1000000,
               "status": "passed"
             },
             "line": 5,
@@ -121,7 +120,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-09T01:43:32.753Z",
+        "start_timestamp": "2020-06-19T22:30:22.055Z",
         "line": 10,
         "name": "testing feature",
         "description": "",
@@ -149,7 +148,7 @@
           },
           {
             "result": {
-              "duration": 2000000,
+              "duration": 1000000,
               "status": "passed"
             },
             "line": 4,

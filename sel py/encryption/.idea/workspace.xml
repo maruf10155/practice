@@ -20,26 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8e89eb4-744f-4fd7-9293-14e744eb3962" name="Default Changelist" comment="add cucumber and encryption">
-      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decrypt2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encryption2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qwert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/a2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/encryption.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/out/production/encryption/encryption.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/src/decrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/src/decrypt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/src/encrypted2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/src/encryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../selenium idea premium/encryption/src/xcv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/decrypt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encrycpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/encrycpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../p5/a/sketch2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../p5/a/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../p5/a/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../p5/a/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../p5/a/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../p5/a/sketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../p5/a/sketch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,6 +190,7 @@
       <updated>1591739222133</updated>
       <workItem from="1591739224889" duration="1354000" />
       <workItem from="1591740628861" duration="21867000" />
+      <workItem from="1592438106265" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary="add cucumber and encryption">
       <created>1591748217763</created>
