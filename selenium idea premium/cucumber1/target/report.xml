@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="0.456">
-<testcase classname="test feature" name="testing feature" time="0.162">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="0.422">
+<testcase classname="test feature" name="testing feature" time="0.163">
 <system-out><![CDATA[Given given name is "qwe"...................................................passed
 When password is "123"......................................................passed
 Then print all..............................................................passed

@@ -34,7 +34,7 @@ public class login_test extends step.base {
     }
    @DataProvider(name = "data")
        public Object[][] getdata(){
-            return new Object[][] {{"zxcvbn","456"},{"love","love"},{"maruf","n  "}};
+            return new Object[][] {{"zxcvbn","456"},{"love","love1"},{"maruf","n  "}};
         }
     @Test(priority = 2,dataProvider = "data")
     public void negetive(String[] kl) throws InterruptedException {

@@ -20,20 +20,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2e40ea7-cdd6-4c05-a39f-6bab18ff33ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../p5/a/sketch2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/selenium test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_sample1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../p5/a/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../p5/a/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../p5/a/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../p5/a/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../p5/a/sketch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../p5/a/sketch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../encryption/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../encryption/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game of life.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/cucumber final system 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/src/test/java/runner/runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/src/test/java/runner/runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/src/test/java/testng/login_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/src/test/java/testng/login_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/classes/org/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/test-classes/META-INF/cucumber final system 1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/test-classes/page/findaflight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/test-classes/page/home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/test-classes/page/sign_on.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/test-classes/runner/runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/test-classes/step/base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/test-classes/step/login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/target/test-classes/testng/login_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/All Test Suite/login test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/All Test Suite/login test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/All Test Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/junitreports/TEST-testng.login_test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/login test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/All Test Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber final system 1/test-output/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/report.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/report.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/report.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/TEST-run.runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/TEST-run.runner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/run.runner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/run.runner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/cucumber1/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/All Test Suite/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/All Test Suite/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/All Test Suite/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/All Test Suite/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/junitreports/TEST-test.t.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/junitreports/TEST-test.t.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/old/All Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../selenium idea premium/new test using mvn/target/surefire-reports/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +121,9 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_sample1.test1">
+  <component name="RunManager" selected="Python.game of life">
     <configuration name="_sample1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +168,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="game of life" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game of life.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_sample1.test1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="selenium test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,6 +226,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.game of life" />
         <item itemvalue="Python tests.pytest for test_sample1.test1" />
         <item itemvalue="Python tests.pytest in test_sample1.py" />
         <item itemvalue="Python._sample1 (1)" />
@@ -169,6 +247,8 @@
       <workItem from="1592438328935" duration="654000" />
       <workItem from="1592440882338" duration="947000" />
       <workItem from="1592442869303" duration="1029000" />
+      <workItem from="1592872770291" duration="216000" />
+      <workItem from="1592873092596" duration="373000" />
     </task>
     <servers />
   </component>
@@ -191,31 +271,32 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1592443914452">
+    <state width="914" height="283" key="GridCell.Tab.0.bottom" timestamp="1592873473106">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592443914452" />
-    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1592443914451">
+    <state width="914" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592873473106" />
+    <state width="914" height="283" key="GridCell.Tab.0.center" timestamp="1592873473105">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592443914451" />
-    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1592443914451">
+    <state width="914" height="283" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592873473105" />
+    <state width="914" height="283" key="GridCell.Tab.0.left" timestamp="1592873473105">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592443914451" />
-    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1592443914452">
+    <state width="914" height="283" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592873473105" />
+    <state width="914" height="283" key="GridCell.Tab.0.right" timestamp="1592873473106">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592443914452" />
-    <state x="665" y="140" key="SettingsEditor" timestamp="1592443907665">
+    <state width="914" height="283" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592873473106" />
+    <state x="665" y="140" key="SettingsEditor" timestamp="1592873352367">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="665" y="140" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1592443907665" />
+    <state x="665" y="140" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1592873352367" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/selenium_test$test.coverage" NAME="test Coverage Results" MODIFIED="1592441012898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/selenium_test$_sample1__1_.coverage" NAME="_sample1 (1) Coverage Results" MODIFIED="1592441287211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/selenium_test$pytest_for_test_sample1_test1.coverage" NAME="pytest for test_sample1.test1 Coverage Results" MODIFIED="1592443526380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_test$game_of_life.coverage" NAME="game of life Coverage Results" MODIFIED="1592873274677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/selenium_test$pytest_in_test_sample1_py.coverage" NAME="pytest in test_sample1.py Coverage Results" MODIFIED="1592443357320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

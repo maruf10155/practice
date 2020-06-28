@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\maruf\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "python.formatting.provider": "yapf"
+}

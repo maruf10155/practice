@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-06-19T22:30:21.872Z",
+        "start_timestamp": "2020-06-20T00:58:10.699Z",
         "line": 8,
         "name": "testing feature",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3000000,
+              "duration": 4000000,
               "status": "passed"
             },
             "line": 3,
@@ -62,7 +62,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-19T22:30:22.045Z",
+        "start_timestamp": "2020-06-20T00:58:10.872Z",
         "line": 9,
         "name": "testing feature",
         "description": "",
@@ -90,6 +90,7 @@
           },
           {
             "result": {
+              "duration": 1000000,
               "status": "passed"
             },
             "line": 4,
@@ -120,7 +121,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-19T22:30:22.055Z",
+        "start_timestamp": "2020-06-20T00:58:10.881Z",
         "line": 10,
         "name": "testing feature",
         "description": "",
