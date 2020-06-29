@@ -48,8 +48,8 @@ def click(board_array, size, event, current_player, t):
 def start(isstart, event, board_array, t, current_player):
     temp = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
     if (board_array == temp and event.type == pygame.MOUSEBUTTONDOWN):
-        cu= random.choice(["first", "second"])
-        current_player[0]=cu
+        cu = random.choice(["first", "second"])
+        current_player[0] = cu
         t[0] = cu
         isstart[0] = True
 
@@ -67,7 +67,7 @@ def check(board_array, t, isstart, current_player):
                 for k in range(3):
                     board_array[k][j] = 0
             isstart[0] = False
-            current_player[0]=""
+            current_player[0] = ""
         if (board_array[0][i] == board_array[1][i] == board_array[2][i] == 1 or board_array[0][i] == board_array[1][
             i] == board_array[2][i] == 2):
             t[0] = "winner " + winner + " click again"
